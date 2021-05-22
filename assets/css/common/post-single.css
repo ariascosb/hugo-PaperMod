@@ -431,3 +431,17 @@ h6:hover .anchor {
 [dir="rtl"] .paginav .next {
     text-align: left;
 }
+/* EDITADO POR MI */
+
+/* Permite que el texto quede justificado */
+.post-content p{
+    text-align: justify;
+}
+/* Permite que el texto de un alista quede justificado */
+.post-content li{
+    text-align: justify;
+}
+/* Permite que cambiar el color del fondo de los bloques de codigo */
+.highlight pre {
+    background-color:  #1B2631 !important;
+}
