@@ -443,5 +443,7 @@ h6:hover .anchor {
 }
 /* Permite que cambiar el color del fondo de los bloques de codigo */
 .highlight pre {
-    background-color:  #1B2631 !important;
+    background-color:  #2e3540 !important;
+    /* #212F3D */
+    /* #1B2631 */
 }
